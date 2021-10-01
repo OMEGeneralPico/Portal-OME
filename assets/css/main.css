@@ -2684,5 +2684,22 @@ input, select, textarea {
 			#copyright {
 				text-align: left;
 			}
+		}
 
-	}
+.cabecera{
+	width: 100%;
+	border-radius: 0 0 85% 85% / 30%;
+	-webkit-border-radius: 0 0 85% 85% / 30%;
+	-moz-border-radius: 0 0 85% 85% / 30%;
+	-ms-border-radius: 0 0 85% 85% / 30%;
+	-o-border-radius: 0 0 85% 85% / 30%;
+}
+	
+
+.cabecera:before{
+	content: "";
+	width: 100%;
+	min-height: 100vh;
+
+}
+	
