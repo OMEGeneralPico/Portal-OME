@@ -2688,11 +2688,6 @@ input, select, textarea {
 
 .cabecera{
 	width: 100%;
-	border-radius: 0 0 85% 85% / 30%;
-	-webkit-border-radius: 0 0 85% 85% / 30%;
-	-moz-border-radius: 0 0 85% 85% / 30%;
-	-ms-border-radius: 0 0 85% 85% / 30%;
-	-o-border-radius: 0 0 85% 85% / 30%;
 }
 	
 
