@@ -2708,3 +2708,6 @@ input, select, textarea {
 	justify-content: center;
 }
 	
+.justificado{
+	text-align: justify;
+}
