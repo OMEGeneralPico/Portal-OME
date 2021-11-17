@@ -2693,7 +2693,6 @@ input, select, textarea {
 	width: 100%;
 }
 	
-
 .cabecera:before{
 	content: "";
 	width: 100%;
@@ -2717,3 +2716,9 @@ input, select, textarea {
 	-webkit-box-shadow: 0px 8px 47px -8px rgba(0,0,0,0.7);
 	-moz-box-shadow: 0px 8px 47px -8px rgba(0,0,0,0.7);
 }
+
+.titulo{
+	margin-left: 0px;
+	padding:0px;
+}
+
